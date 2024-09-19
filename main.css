@@ -1,0 +1,15 @@
+form{
+    box-sizing: border-box black 10px;
+  background-size: cover;
+  background-repeat: repeat;
+}
+body{
+    background: url(https://2.bp.blogspot.com/-C4ETZ_TT4JY/XFtYXeDrl1I/AAAAAAABLbs/bV8d55MyHGIiGGQh0e-ikfqp6p7n6T4DQCLcBGAs/s1600/blog-apaixonados-por-viagens-nascer-do-sol%2B%252844%2529.jpeg);
+    background-size: cover;
+}
+
+label{
+    color: white;
+    box-shadow: 10px black;
+    width: min-content;
+}
