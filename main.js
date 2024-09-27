@@ -23,7 +23,7 @@ const preencherFormulario = (endereco) => {
 };
 // função de consumo de API viaCep
  
-// explicar dps
+// explicar dpsa
 const pesquisarCep = async () => {
   limparFormulario();
   const url = `https://viacep.com.br/ws/${cep.value}/json/`;
